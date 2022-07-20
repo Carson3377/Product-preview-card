@@ -32,7 +32,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Product preview card](https://carson3377.github.io/Product-preview-card/)
+- Live Site URL: [Product preview card](https://carson3377.github.io/Product-preview-card/#)
 
 
 
