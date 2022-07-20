@@ -18,21 +18,21 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
+
+
 ### The challenge
-
 Users should be able to:
-
 - View the optimal layout depending on their device's screen size-------checked
 - See hover and focus states for interactive elements-------------------checked
 
 ### Screenshot
+![Product preview card](https://user-images.githubusercontent.com/105184379/179890868-b960a0ec-05bd-4093-973d-8dffce5fafa5.png)
 
-![](./screenshot.jpg)
 
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Product preview card](https://carson3377.github.io/Product-preview-card/)
 
 
 
